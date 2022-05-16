@@ -1,0 +1,4 @@
+rootProject.name = 'coupon-calculation-serv'
+include 'coupon-calculation-api'
+include 'coupon-calculation-impl'
+
